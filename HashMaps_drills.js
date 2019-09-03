@@ -33,6 +33,7 @@ main()
 //2. The output of the code is:
 //{key: 'Hello World', value '20'}
 //{key: 'Hello World', value '10'}
+//The 2nd set functions overwrite the first set function value becuase the keys are the same
 
 //3. 
 //| 22 | 88 |  |  | 4 | 15 | 28 | 17 | 59 | 31 | 10 |
